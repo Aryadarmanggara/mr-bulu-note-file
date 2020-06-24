@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans&family=Viga&display=swap');
+
+.brand {
+    font-size: 2.2em;
+    font-weight: bold;
+    font-family: viga;
+    width: 100%;
+    background-color: dodgerblue;
+    padding: 10px 0 10px 0;
+    color: white;
+}
+
+form, button {
+    font-family: 'Balsamiq Sans', cursive;
+}
